@@ -16,7 +16,7 @@ namespace SecMasterVersionTwo
             switch (DBType)
             {
                 case "SQL":
-                    objSelector = new SqlOperations();
+                    objSelector = new ivp_secm_DAL();
                     break;
                 case "ORACLE":
                     objSelector = new OracleOperations();

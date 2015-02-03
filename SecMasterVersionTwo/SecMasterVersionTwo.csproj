@@ -48,7 +48,7 @@
     <Compile Include="MongoOperations.cs" />
     <Compile Include="OracleOperations.cs" />
     <Compile Include="Secm_Constants.cs" />
-    <Compile Include="SqlOperations.cs" />
+    <Compile Include="ivp_secm_DAL.cs" />
     <Compile Include="IFactoryBase.cs" />
     <Compile Include="Program.cs">
       <SubType>Form</SubType>
