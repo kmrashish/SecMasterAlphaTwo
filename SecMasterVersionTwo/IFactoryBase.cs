@@ -8,7 +8,7 @@ namespace SecMasterVersionTwo
 {
     public interface IFactoryBase
     {
-        void Insert(string file_path, string values_to_be_inserted);
+        //void ExecuteProcedure();
         void Update(string field_names, string values_to_be_updated);
         void Delete(string sec_id);
     }

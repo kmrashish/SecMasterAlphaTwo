@@ -1,0 +1,19 @@
+2/3/2015 1:35:06 PM: File Dropped New
+2/3/2015 1:35:06 PM: Start Process
+2/3/2015 1:35:06 PM: C:\\temp\\Jass\\cb_INSERT.xls
+2/3/2015 1:35:06 PM: xls
+2/3/2015 1:35:06 PM: SET BOND
+2/3/2015 1:35:07 PM: INSERTED
+2/3/2015 1:36:48 PM: File Dropped New
+2/3/2015 1:36:48 PM: Start Process
+2/3/2015 1:36:48 PM: C:\\temp\\Jass\\eq_INSERT.xls
+2/3/2015 1:36:48 PM: xls
+2/3/2015 1:36:48 PM: SET EQUITY
+2/3/2015 1:36:48 PM: INSERTED
+2/3/2015 1:38:12 PM: File Dropped New
+2/3/2015 1:38:12 PM: Start Process
+2/3/2015 1:38:12 PM: C:\\temp\\Jass\\cb_UPDATE.xls
+2/3/2015 1:38:12 PM: xls
+2/3/2015 1:38:12 PM: SET BOND
+2/3/2015 1:38:12 PM: UPDATED
+2/3/2015 1:49:18 PM: Service Started

@@ -1,0 +1,1 @@
+installutil /u "com.ivp.polaris.filewatcher.exe"
